@@ -8,6 +8,14 @@
  *
  * Main module of the application.
  */
+/**
+ * @ngdoc overview
+ * @name yoWorkspaceApp
+ * @description
+ * # yoWorkspaceApp
+ *
+ * Main module of the application.
+ */
 angular
   .module('yoWorkspaceApp', [
     'ngResource',
